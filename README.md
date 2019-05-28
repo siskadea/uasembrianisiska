@@ -2,4 +2,4 @@
 Kelompok Uas :
 - Embriani Dewi Lestari
 - Siska Dea
-MI 2D
+Kelas : MI 2D
